@@ -1,0 +1,32 @@
+{
+  "name": "Sổ tay – Chi tiêu, Nhật ký, Album",
+  "short_name": "Sổ tay",
+  "description": "Quản lý chi tiêu, viết nhật ký và lưu album ảnh.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f1",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
